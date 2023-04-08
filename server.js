@@ -1364,6 +1364,9 @@
         },
         comments: {
         
+        },
+        passengers: {
+        
         }
     };
     var rules$1 = {
